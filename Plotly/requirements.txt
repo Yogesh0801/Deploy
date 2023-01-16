@@ -1,0 +1,15 @@
+pandas
+numpy
+seaborn
+itertools module
+plotly
+streamlit
+scikit-learn
+plotly.express
+
+
+
+import plotly.express as px
+import plotly.graph_object as go
+
+st.write(df_flights = sns,load_dataset("flight"))
